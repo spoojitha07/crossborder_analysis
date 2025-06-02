@@ -1,0 +1,301 @@
+ProductID,ProductName,Category,Subcategory,OriginCountry,SellerLocation,BuyerLocation,Price,Currency,PurchaseDate,OrderID,Quantity,Condition,PlatformName,ShippingCost,PaymentMethod
+20001,Laptop,Electronics,Computers,China,Beijing,India,2095,INR,2025-04-30,O20001,3,Used,eBay,350,Credit Card
+20002,Essential Oils,Wellness,Aromatherapy,USA,California,India,5336,INR,2025-05-07,O20002,3,Used,Mercari,500,UPI
+20003,Essential Oils,Wellness,Aromatherapy,Germany,Berlin,India,22550,INR,2025-05-19,O20003,2,New,eBay,100,Debit Card
+20004,Yoga Mat,Wellness,Fitness,USA,California,India,435,INR,2025-05-13,O20004,4,Used,eBay,150,Debit Card
+20005,Protein Powder,Wellness,Nutrition,China,Beijing,India,24045,INR,2025-04-10,O20005,3,New,Mercari,600,Cash on Delivery
+20006,Massage Roller,Wellness,Fitness,Germany,Berlin,India,2488,INR,2025-04-07,O20006,5,New,eBay,150,Credit Card
+20007,Sports Shoes,Fashion,Footwear,USA,California,India,6820,INR,2025-04-21,O20007,4,Used,eBay,350,Cash on Delivery
+20008,Sports Shoes,Fashion,Footwear,Japan,Tokyo,India,3748,INR,2025-05-20,O20008,5,New,Mercari,200,Cash on Delivery
+20009,Jacket,Fashion,Clothing,Korea,Seoul,India,13583,INR,2025-05-20,O20009,2,Like New,eBay,300,Credit Card
+20010,Fitness Band,Electronics,Wearables,Canada,Toronto,India,17735,INR,2025-05-09,O20010,1,New,eBay,200,Credit Card
+20011,Protein Powder,Wellness,Nutrition,China,Beijing,India,13031,INR,2025-05-14,O20011,3,New,Mercari,100,Cash on Delivery
+20012,Sports Shoes,Fashion,Footwear,China,Beijing,India,2906,INR,2025-05-21,O20012,2,New,Mercari,250,Debit Card
+20013,Tablet,Electronics,Computers,USA,California,India,17282,INR,2025-05-12,O20013,1,Like New,eBay,150,Credit Card
+20014,Fitness Band,Electronics,Wearables,Canada,Toronto,India,3568,INR,2025-05-25,O20014,3,New,eBay,100,Debit Card
+20015,Scented Candles,Wellness,Aromatherapy,China,Beijing,India,1125,INR,2025-05-14,O20015,4,New,Mercari,200,UPI
+20016,Leather Wallet,Fashion,Accessories,Korea,Seoul,India,15507,INR,2025-05-10,O20016,2,Used,eBay,400,Cash on Delivery
+20017,Bluetooth Speaker,Electronics,Audio,China,Beijing,India,3776,INR,2025-04-13,O20017,5,New,Mercari,400,UPI
+20018,Scarf,Fashion,Accessories,UK,London,India,12758,INR,2025-04-25,O20018,3,New,eBay,700,Debit Card
+20019,Tablet,Electronics,Computers,Korea,Seoul,India,20292,INR,2025-05-01,O20019,5,Like New,Mercari,200,Credit Card
+20020,Game Console,Electronics,Gaming,USA,California,India,13528,INR,2025-05-21,O20020,1,Used,Mercari,700,Cash on Delivery
+20021,Sports Shoes,Fashion,Footwear,Japan,Tokyo,India,14975,INR,2025-05-22,O20021,3,Used,Mercari,350,Debit Card
+20022,Protein Powder,Wellness,Nutrition,UK,London,India,8002,INR,2025-05-02,O20022,1,New,Mercari,700,Debit Card
+20023,Tablet,Electronics,Mobile,Korea,Seoul,India,8560,INR,2025-05-10,O20023,2,Used,eBay,200,UPI
+20024,Wireless Earbuds,Electronics,Audio,UK,London,India,17735,INR,2025-04-10,O20024,1,Used,eBay,150,UPI
+20025,Essential Oils,Wellness,Aromatherapy,USA,California,India,7823,INR,2025-04-09,O20025,2,Used,eBay,1000,Cash on Delivery
+20026,Yoga Mat,Wellness,Fitness,Germany,Berlin,India,24231,INR,2025-05-15,O20026,5,Used,Mercari,1000,Debit Card
+20027,T-shirt,Fashion,Clothing,Japan,Tokyo,India,4771,INR,2025-04-01,O20027,5,Like New,Mercari,200,UPI
+20028,Herbal Tea,Wellness,Nutrition,UK,London,India,2961,INR,2025-05-02,O20028,2,Like New,Mercari,250,UPI
+20029,Formal Shoes,Fashion,Footwear,Korea,Seoul,India,20612,INR,2025-05-13,O20029,3,Like New,eBay,250,Debit Card
+20030,Face Mask,Wellness,Skincare,USA,California,India,19760,INR,2025-05-17,O20030,1,New,eBay,400,Debit Card
+20031,Sports Watch,Fashion,Accessories,USA,California,India,13832,INR,2025-04-07,O20031,4,Used,Mercari,200,Cash on Delivery
+20032,Laptop,Electronics,Computers,USA,California,India,893,INR,2025-04-17,O20032,1,New,Mercari,400,Debit Card
+20033,Moisturizer,Wellness,Skincare,Korea,Seoul,India,8713,INR,2025-05-10,O20033,4,Used,eBay,1000,Debit Card
+20034,Essential Oils,Wellness,Aromatherapy,Korea,Seoul,India,2890,INR,2025-04-14,O20034,2,Like New,eBay,1000,UPI
+20035,Sports Shoes,Fashion,Footwear,Korea,Seoul,India,10065,INR,2025-05-06,O20035,4,New,eBay,100,Cash on Delivery
+20036,Mirrorless Camera,Electronics,Cameras,Germany,Berlin,India,15165,INR,2025-04-13,O20036,1,New,Mercari,1000,UPI
+20037,Wireless Mouse,Electronics,Computer Accessories,USA,California,India,19707,INR,2025-05-01,O20037,4,Used,eBay,150,Cash on Delivery
+20038,Action Camera,Electronics,Cameras,USA,California,India,4989,INR,2025-04-03,O20038,3,Like New,eBay,250,UPI
+20039,Facial Cleanser,Wellness,Skincare,Canada,Toronto,India,17533,INR,2025-04-07,O20039,1,Used,eBay,700,Debit Card
+20040,Face Mask,Wellness,Skincare,Canada,Toronto,India,13255,INR,2025-05-05,O20040,4,Like New,Mercari,500,UPI
+20041,Keyboard,Electronics,Computer Accessories,Korea,Seoul,India,12751,INR,2025-05-04,O20041,5,Used,Mercari,150,Cash on Delivery
+20042,Smartwatch,Electronics,Wearables,Canada,Toronto,India,5141,INR,2025-04-03,O20042,4,New,eBay,250,Debit Card
+20043,Massage Roller,Wellness,Fitness,Germany,Berlin,India,22888,INR,2025-04-05,O20043,1,Like New,eBay,600,UPI
+20044,Sunglasses,Fashion,Accessories,Canada,Toronto,India,17630,INR,2025-05-08,O20044,5,Used,Mercari,400,Debit Card
+20045,Smartphone,Electronics,Mobile,Korea,Seoul,India,14242,INR,2025-04-07,O20045,3,Used,eBay,400,UPI
+20046,Sports Watch,Fashion,Accessories,Korea,Seoul,India,4636,INR,2025-04-26,O20046,2,Used,eBay,100,Cash on Delivery
+20047,Sports Shoes,Fashion,Footwear,Germany,Berlin,India,12090,INR,2025-04-18,O20047,3,New,eBay,300,UPI
+20048,Designer Handbag,Fashion,Bags,Japan,Tokyo,India,7791,INR,2025-05-18,O20048,4,Used,eBay,300,Cash on Delivery
+20049,Facial Cleanser,Wellness,Skincare,China,Beijing,India,5600,INR,2025-05-23,O20049,4,Used,eBay,100,Debit Card
+20050,Mirrorless Camera,Electronics,Cameras,UK,London,India,10323,INR,2025-05-20,O20050,5,Used,Mercari,200,Debit Card
+20051,Laptop,Electronics,Computers,Japan,Tokyo,India,1213,INR,2025-04-04,O20051,3,Used,eBay,350,Cash on Delivery
+20052,Essential Oils,Wellness,Aromatherapy,Germany,Berlin,India,1151,INR,2025-04-24,O20052,4,Like New,Mercari,500,UPI
+20053,Sneakers,Fashion,Footwear,Germany,Berlin,India,20839,INR,2025-04-06,O20053,3,New,Mercari,200,Debit Card
+20054,Game Console,Electronics,Gaming,Germany,Berlin,India,5485,INR,2025-05-12,O20054,4,Like New,Mercari,500,Debit Card
+20055,Herbal Tea,Wellness,Nutrition,Canada,Toronto,India,608,INR,2025-04-17,O20055,5,Used,eBay,1000,UPI
+20056,Scarf,Fashion,Accessories,China,Beijing,India,6599,INR,2025-04-30,O20056,3,Used,eBay,700,Credit Card
+20057,Tablet,Electronics,Mobile,UK,London,India,16324,INR,2025-05-09,O20057,3,New,Mercari,500,Credit Card
+20058,T-shirt,Fashion,Clothing,Canada,Toronto,India,7211,INR,2025-05-12,O20058,3,New,Mercari,100,Cash on Delivery
+20059,Yoga Mat,Wellness,Fitness,Germany,Berlin,India,1026,INR,2025-05-02,O20059,3,New,eBay,400,Cash on Delivery
+20060,Moisturizer,Wellness,Skincare,Germany,Berlin,India,24870,INR,2025-05-23,O20060,2,Like New,Mercari,1000,Cash on Delivery
+20061,Massage Roller,Wellness,Fitness,Canada,Toronto,India,4581,INR,2025-05-13,O20061,5,New,Mercari,500,Debit Card
+20062,Yoga Mat,Wellness,Fitness,Germany,Berlin,India,22529,INR,2025-05-12,O20062,1,New,Mercari,300,Cash on Delivery
+20063,T-shirt,Fashion,Clothing,UK,London,India,7633,INR,2025-05-25,O20063,1,Like New,Mercari,500,Debit Card
+20064,Moisturizer,Wellness,Skincare,China,Beijing,India,13434,INR,2025-04-27,O20064,1,Used,Mercari,200,Debit Card
+20065,Sports Watch,Fashion,Accessories,Japan,Tokyo,India,8183,INR,2025-05-16,O20065,2,Used,eBay,350,Debit Card
+20066,Designer Handbag,Fashion,Bags,China,Beijing,India,7128,INR,2025-05-19,O20066,2,Like New,Mercari,500,Credit Card
+20067,Tablet,Electronics,Mobile,Germany,Berlin,India,10963,INR,2025-04-28,O20067,4,Like New,Mercari,600,Debit Card
+20068,Yoga Mat,Wellness,Fitness,USA,California,India,19018,INR,2025-05-04,O20068,2,New,Mercari,1000,Debit Card
+20069,Gaming Controller,Electronics,Gaming,USA,California,India,3571,INR,2025-04-25,O20069,5,Like New,Mercari,150,Credit Card
+20070,Jacket,Fashion,Clothing,Germany,Berlin,India,13199,INR,2025-05-04,O20070,3,Like New,Mercari,350,Cash on Delivery
+20071,Sports Shoes,Fashion,Footwear,Canada,Toronto,India,10323,INR,2025-04-15,O20071,2,Used,Mercari,250,Credit Card
+20072,Hair Serum,Wellness,Hair Care,Korea,Seoul,India,9418,INR,2025-05-12,O20072,1,Like New,eBay,600,Credit Card
+20073,Moisturizer,Wellness,Skincare,Korea,Seoul,India,16477,INR,2025-04-02,O20073,1,Used,eBay,500,Cash on Delivery
+20074,Tablet,Electronics,Mobile,China,Beijing,India,17665,INR,2025-04-14,O20074,1,Like New,Mercari,1000,UPI
+20075,Hair Serum,Wellness,Hair Care,China,Beijing,India,20834,INR,2025-04-07,O20075,5,Used,Mercari,300,Credit Card
+20076,Wireless Mouse,Electronics,Computer Accessories,UK,London,India,5313,INR,2025-04-17,O20076,5,Used,eBay,400,UPI
+20077,Noise Cancelling Headphones,Electronics,Audio,China,Beijing,India,22794,INR,2025-05-15,O20077,4,Like New,Mercari,100,Credit Card
+20078,Tablet,Electronics,Computers,Japan,Tokyo,India,23756,INR,2025-05-20,O20078,5,New,Mercari,300,Debit Card
+20079,T-shirt,Fashion,Clothing,China,Beijing,India,1631,INR,2025-05-23,O20079,2,Used,eBay,350,UPI
+20080,Designer Handbag,Fashion,Bags,Canada,Toronto,India,19051,INR,2025-04-03,O20080,1,Used,Mercari,350,UPI
+20081,Denim Jacket,Fashion,Clothing,USA,California,India,20448,INR,2025-04-12,O20081,1,Like New,eBay,300,Cash on Delivery
+20082,Scented Candles,Wellness,Aromatherapy,Germany,Berlin,India,22198,INR,2025-04-11,O20082,1,New,Mercari,200,Credit Card
+20083,Sports Watch,Fashion,Accessories,Japan,Tokyo,India,15438,INR,2025-05-20,O20083,3,Used,Mercari,500,Cash on Delivery
+20084,Laptop Stand,Electronics,Computer Accessories,Korea,Seoul,India,1958,INR,2025-05-12,O20084,3,New,Mercari,1000,UPI
+20085,Hair Serum,Wellness,Hair Care,China,Beijing,India,16678,INR,2025-04-16,O20085,4,Like New,eBay,200,Credit Card
+20086,Game Console,Electronics,Gaming,UK,London,India,21281,INR,2025-05-25,O20086,4,Used,Mercari,500,UPI
+20087,Action Camera,Electronics,Cameras,Korea,Seoul,India,12870,INR,2025-05-06,O20087,4,Like New,Mercari,150,Cash on Delivery
+20088,Sunglasses,Fashion,Accessories,Canada,Toronto,India,12662,INR,2025-04-21,O20088,1,Used,Mercari,150,Cash on Delivery
+20089,Designer Handbag,Fashion,Bags,Canada,Toronto,India,2636,INR,2025-05-09,O20089,5,Used,Mercari,1000,Cash on Delivery
+20090,Denim Jacket,Fashion,Clothing,Canada,Toronto,India,5883,INR,2025-04-30,O20090,3,Like New,eBay,1000,UPI
+20091,Essential Oils,Wellness,Aromatherapy,Korea,Seoul,India,19079,INR,2025-04-15,O20091,1,Like New,eBay,600,UPI
+20092,Facial Cleanser,Wellness,Skincare,Japan,Tokyo,India,12513,INR,2025-05-23,O20092,4,New,Mercari,250,Credit Card
+20093,Sneakers,Fashion,Footwear,Canada,Toronto,India,19622,INR,2025-05-16,O20093,3,New,eBay,100,Credit Card
+20094,Leather Wallet,Fashion,Accessories,China,Beijing,India,506,INR,2025-05-18,O20094,1,Like New,eBay,700,Cash on Delivery
+20095,Herbal Tea,Wellness,Nutrition,UK,London,India,4671,INR,2025-05-23,O20095,2,New,eBay,600,Cash on Delivery
+20096,Sneakers,Fashion,Footwear,China,Beijing,India,24104,INR,2025-04-19,O20096,4,Used,Mercari,400,UPI
+20097,Shampoo,Wellness,Hair Care,Germany,Berlin,India,18525,INR,2025-05-06,O20097,2,New,eBay,1000,UPI
+20098,Herbal Tea,Wellness,Nutrition,Germany,Berlin,India,24389,INR,2025-04-12,O20098,5,Like New,eBay,150,UPI
+20099,Scented Candles,Wellness,Aromatherapy,Germany,Berlin,India,18797,INR,2025-05-24,O20099,5,New,eBay,100,Credit Card
+20100,Wireless Mouse,Electronics,Computer Accessories,Korea,Seoul,India,16888,INR,2025-04-13,O20100,3,Used,Mercari,300,UPI
+20101,Laptop,Electronics,Computers,Germany,Berlin,India,19695,INR,2025-04-14,O20101,5,New,eBay,150,Debit Card
+20102,Shampoo,Wellness,Hair Care,Japan,Tokyo,India,12968,INR,2025-05-21,O20102,3,Used,Mercari,400,Cash on Delivery
+20103,Denim Jacket,Fashion,Clothing,Korea,Seoul,India,18694,INR,2025-04-13,O20103,5,Used,eBay,250,UPI
+20104,Hair Serum,Wellness,Hair Care,Canada,Toronto,India,18232,INR,2025-04-13,O20104,3,Like New,Mercari,200,Debit Card
+20105,Hair Serum,Wellness,Hair Care,China,Beijing,India,1399,INR,2025-04-18,O20105,5,New,Mercari,700,UPI
+20106,Action Camera,Electronics,Cameras,Germany,Berlin,India,23462,INR,2025-04-03,O20106,2,Used,Mercari,1000,UPI
+20107,Denim Jacket,Fashion,Clothing,Canada,Toronto,India,17808,INR,2025-05-04,O20107,2,Used,Mercari,600,Debit Card
+20108,Sunglasses,Fashion,Accessories,USA,California,India,5841,INR,2025-04-14,O20108,3,Like New,eBay,250,Cash on Delivery
+20109,Facial Cleanser,Wellness,Skincare,Germany,Berlin,India,8911,INR,2025-04-16,O20109,5,Used,Mercari,100,UPI
+20110,Leather Backpack,Fashion,Bags,USA,California,India,13689,INR,2025-04-19,O20110,1,Used,eBay,600,Cash on Delivery
+20111,Leather Backpack,Fashion,Bags,Germany,Berlin,India,5135,INR,2025-05-03,O20111,1,Used,Mercari,600,Credit Card
+20112,Facial Cleanser,Wellness,Skincare,Germany,Berlin,India,15886,INR,2025-04-14,O20112,4,Used,Mercari,600,Cash on Delivery
+20113,Moisturizer,Wellness,Skincare,Germany,Berlin,India,4182,INR,2025-04-30,O20113,3,New,Mercari,100,Debit Card
+20114,Designer Handbag,Fashion,Bags,USA,California,India,10427,INR,2025-04-29,O20114,4,Like New,Mercari,400,Credit Card
+20115,Moisturizer,Wellness,Skincare,Germany,Berlin,India,15611,INR,2025-05-19,O20115,5,New,Mercari,350,Credit Card
+20116,Denim Jacket,Fashion,Clothing,USA,California,India,19225,INR,2025-04-29,O20116,4,Like New,Mercari,500,Debit Card
+20117,Vitamin Supplements,Wellness,Nutrition,Germany,Berlin,India,10018,INR,2025-05-22,O20117,5,New,Mercari,300,UPI
+20118,Smartphone,Electronics,Mobile,Korea,Seoul,India,1427,INR,2025-05-07,O20118,5,Like New,Mercari,300,Debit Card
+20119,Yoga Mat,Wellness,Fitness,China,Beijing,India,22678,INR,2025-05-25,O20119,5,New,Mercari,250,UPI
+20120,Wireless Earbuds,Electronics,Audio,Germany,Berlin,India,20071,INR,2025-05-25,O20120,1,Used,eBay,1000,Credit Card
+20121,Leather Backpack,Fashion,Bags,Korea,Seoul,India,5256,INR,2025-05-08,O20121,4,Used,eBay,200,Debit Card
+20122,Mirrorless Camera,Electronics,Cameras,Korea,Seoul,India,22542,INR,2025-04-21,O20122,4,Like New,eBay,700,Debit Card
+20123,Shampoo,Wellness,Hair Care,Canada,Toronto,India,8181,INR,2025-04-28,O20123,2,New,Mercari,250,Cash on Delivery
+20124,Jeans,Fashion,Clothing,Germany,Berlin,India,18431,INR,2025-05-01,O20124,4,Like New,eBay,500,Credit Card
+20125,Game Console,Electronics,Gaming,Canada,Toronto,India,7303,INR,2025-05-23,O20125,2,Used,Mercari,300,Credit Card
+20126,Facial Cleanser,Wellness,Skincare,Canada,Toronto,India,12876,INR,2025-04-02,O20126,5,Like New,Mercari,100,UPI
+20127,Shampoo,Wellness,Hair Care,Germany,Berlin,India,19469,INR,2025-04-24,O20127,4,New,eBay,200,Cash on Delivery
+20128,Hair Serum,Wellness,Hair Care,China,Beijing,India,9351,INR,2025-04-01,O20128,2,Used,Mercari,600,Debit Card
+20129,Sports Shoes,Fashion,Footwear,UK,London,India,23738,INR,2025-05-13,O20129,2,Used,eBay,350,Credit Card
+20130,Tablet,Electronics,Computers,Japan,Tokyo,India,1946,INR,2025-04-24,O20130,2,New,Mercari,600,UPI
+20131,Sports Watch,Fashion,Accessories,Korea,Seoul,India,1381,INR,2025-05-12,O20131,3,New,eBay,300,Debit Card
+20132,Scarf,Fashion,Accessories,UK,London,India,16472,INR,2025-05-24,O20132,1,Like New,eBay,250,Cash on Delivery
+20133,Jacket,Fashion,Clothing,Canada,Toronto,India,12259,INR,2025-05-09,O20133,1,Like New,Mercari,500,Debit Card
+20134,Noise Cancelling Headphones,Electronics,Audio,Germany,Berlin,India,7307,INR,2025-04-10,O20134,2,New,Mercari,1000,Debit Card
+20135,Denim Jacket,Fashion,Clothing,China,Beijing,India,17010,INR,2025-05-01,O20135,2,Like New,eBay,100,Debit Card
+20136,Smartwatch,Electronics,Wearables,Japan,Tokyo,India,15886,INR,2025-04-03,O20136,5,New,Mercari,300,Debit Card
+20137,Essential Oils,Wellness,Aromatherapy,Germany,Berlin,India,18308,INR,2025-05-23,O20137,3,Used,Mercari,500,Cash on Delivery
+20138,Sports Shoes,Fashion,Footwear,Canada,Toronto,India,10504,INR,2025-04-10,O20138,5,Used,Mercari,700,UPI
+20139,Gaming Controller,Electronics,Gaming,China,Beijing,India,15074,INR,2025-04-05,O20139,2,Like New,Mercari,150,Credit Card
+20140,Tablet,Electronics,Mobile,Canada,Toronto,India,4079,INR,2025-04-07,O20140,2,Like New,Mercari,600,Credit Card
+20141,Keyboard,Electronics,Computer Accessories,Japan,Tokyo,India,22588,INR,2025-05-05,O20141,1,Used,eBay,600,Cash on Delivery
+20142,Leather Backpack,Fashion,Bags,Japan,Tokyo,India,23485,INR,2025-05-01,O20142,4,Like New,Mercari,400,Debit Card
+20143,Leather Wallet,Fashion,Accessories,Canada,Toronto,India,2461,INR,2025-05-09,O20143,5,Like New,Mercari,100,Credit Card
+20144,Hair Serum,Wellness,Hair Care,UK,London,India,576,INR,2025-05-12,O20144,2,Used,eBay,400,UPI
+20145,Fitness Band,Electronics,Wearables,Germany,Berlin,India,14800,INR,2025-04-17,O20145,5,Like New,eBay,700,UPI
+20146,Essential Oils,Wellness,Aromatherapy,China,Beijing,India,13981,INR,2025-05-06,O20146,4,New,eBay,300,UPI
+20147,Massage Roller,Wellness,Fitness,Germany,Berlin,India,3796,INR,2025-05-13,O20147,1,Used,eBay,200,Credit Card
+20148,Tablet,Electronics,Mobile,Canada,Toronto,India,8725,INR,2025-05-06,O20148,5,Used,Mercari,200,Cash on Delivery
+20149,Facial Cleanser,Wellness,Skincare,Canada,Toronto,India,3975,INR,2025-05-09,O20149,4,New,eBay,250,UPI
+20150,Smartphone,Electronics,Mobile,Germany,Berlin,India,9854,INR,2025-04-26,O20150,5,Used,eBay,700,Credit Card
+20151,Gaming Controller,Electronics,Gaming,China,Beijing,India,663,INR,2025-05-25,O20151,5,New,Mercari,700,Debit Card
+20152,Herbal Tea,Wellness,Nutrition,Korea,Seoul,India,9249,INR,2025-05-12,O20152,1,Used,Mercari,300,Cash on Delivery
+20153,Sports Watch,Fashion,Accessories,UK,London,India,5327,INR,2025-04-01,O20153,1,Used,eBay,600,UPI
+20154,Jeans,Fashion,Clothing,UK,London,India,24091,INR,2025-04-30,O20154,4,Like New,eBay,200,Cash on Delivery
+20155,Moisturizer,Wellness,Skincare,Korea,Seoul,India,12777,INR,2025-04-22,O20155,1,Used,eBay,600,UPI
+20156,Scented Candles,Wellness,Aromatherapy,UK,London,India,12297,INR,2025-04-16,O20156,3,Used,eBay,1000,Cash on Delivery
+20157,Face Mask,Wellness,Skincare,Korea,Seoul,India,6742,INR,2025-04-25,O20157,2,Used,Mercari,350,Cash on Delivery
+20158,Leather Backpack,Fashion,Bags,Japan,Tokyo,India,7467,INR,2025-04-26,O20158,3,New,Mercari,500,UPI
+20159,Formal Shoes,Fashion,Footwear,USA,California,India,4896,INR,2025-05-18,O20159,2,Like New,Mercari,250,Debit Card
+20160,Sports Shoes,Fashion,Footwear,Japan,Tokyo,India,20939,INR,2025-05-24,O20160,5,Like New,Mercari,150,Credit Card
+20161,Essential Oils,Wellness,Aromatherapy,Canada,Toronto,India,21484,INR,2025-04-03,O20161,4,Like New,eBay,500,UPI
+20162,Formal Shoes,Fashion,Footwear,USA,California,India,10187,INR,2025-05-19,O20162,5,New,eBay,500,Credit Card
+20163,Massage Roller,Wellness,Fitness,Canada,Toronto,India,17283,INR,2025-04-12,O20163,4,Used,eBay,350,Credit Card
+20164,Game Console,Electronics,Gaming,China,Beijing,India,14692,INR,2025-04-21,O20164,3,Used,eBay,200,UPI
+20165,Action Camera,Electronics,Cameras,UK,London,India,8840,INR,2025-04-12,O20165,4,Like New,eBay,350,UPI
+20166,Jacket,Fashion,Clothing,Japan,Tokyo,India,14456,INR,2025-05-07,O20166,2,Used,eBay,250,Cash on Delivery
+20167,Sports Shoes,Fashion,Footwear,Canada,Toronto,India,23995,INR,2025-04-10,O20167,4,Used,Mercari,400,Cash on Delivery
+20168,Tablet,Electronics,Computers,Canada,Toronto,India,12370,INR,2025-04-17,O20168,5,Used,Mercari,400,Credit Card
+20169,Vitamin Supplements,Wellness,Nutrition,Japan,Tokyo,India,20419,INR,2025-05-01,O20169,1,Like New,eBay,300,UPI
+20170,T-shirt,Fashion,Clothing,Korea,Seoul,India,10529,INR,2025-04-23,O20170,5,New,Mercari,300,UPI
+20171,Sports Watch,Fashion,Accessories,Korea,Seoul,India,9774,INR,2025-04-19,O20171,4,Used,Mercari,200,UPI
+20172,Sunglasses,Fashion,Accessories,Korea,Seoul,India,4385,INR,2025-04-15,O20172,3,Like New,eBay,300,Cash on Delivery
+20173,Scarf,Fashion,Accessories,Germany,Berlin,India,14838,INR,2025-04-29,O20173,4,New,Mercari,200,Debit Card
+20174,Yoga Mat,Wellness,Fitness,Japan,Tokyo,India,4506,INR,2025-04-07,O20174,1,New,eBay,600,Credit Card
+20175,Tablet,Electronics,Computers,UK,London,India,19218,INR,2025-04-06,O20175,1,New,Mercari,150,Cash on Delivery
+20176,Sports Shoes,Fashion,Footwear,Germany,Berlin,India,7390,INR,2025-05-11,O20176,2,New,Mercari,100,Credit Card
+20177,Massage Roller,Wellness,Fitness,Canada,Toronto,India,12113,INR,2025-05-05,O20177,3,Like New,Mercari,600,Debit Card
+20178,Shampoo,Wellness,Hair Care,Germany,Berlin,India,18823,INR,2025-05-07,O20178,4,Like New,eBay,350,Cash on Delivery
+20179,Vitamin Supplements,Wellness,Nutrition,China,Beijing,India,7973,INR,2025-04-27,O20179,3,New,Mercari,100,Debit Card
+20180,Jacket,Fashion,Clothing,UK,London,India,604,INR,2025-05-02,O20180,4,New,eBay,300,Debit Card
+20181,Tablet,Electronics,Mobile,Japan,Tokyo,India,10528,INR,2025-05-06,O20181,4,Like New,Mercari,1000,Cash on Delivery
+20182,Sneakers,Fashion,Footwear,Korea,Seoul,India,10787,INR,2025-04-16,O20182,5,Used,eBay,300,UPI
+20183,Sports Shoes,Fashion,Footwear,Japan,Tokyo,India,3760,INR,2025-04-08,O20183,4,Used,eBay,700,Cash on Delivery
+20184,DSLR Camera,Electronics,Cameras,Japan,Tokyo,India,1620,INR,2025-05-05,O20184,1,New,Mercari,300,UPI
+20185,Gaming Controller,Electronics,Gaming,Germany,Berlin,India,601,INR,2025-04-06,O20185,2,New,Mercari,350,Cash on Delivery
+20186,Scarf,Fashion,Accessories,China,Beijing,India,17544,INR,2025-04-03,O20186,3,New,Mercari,100,UPI
+20187,Leather Backpack,Fashion,Bags,Japan,Tokyo,India,5127,INR,2025-05-24,O20187,3,Used,Mercari,150,Debit Card
+20188,Leather Wallet,Fashion,Accessories,Germany,Berlin,India,24865,INR,2025-04-13,O20188,4,Used,Mercari,600,Debit Card
+20189,Scarf,Fashion,Accessories,USA,California,India,4301,INR,2025-05-17,O20189,1,Used,Mercari,300,Cash on Delivery
+20190,Yoga Mat,Wellness,Fitness,USA,California,India,22232,INR,2025-05-13,O20190,2,Used,Mercari,1000,Cash on Delivery
+20191,Designer Handbag,Fashion,Bags,Canada,Toronto,India,7192,INR,2025-04-08,O20191,4,Used,Mercari,100,Cash on Delivery
+20192,Hair Serum,Wellness,Hair Care,USA,California,India,19361,INR,2025-04-16,O20192,2,Like New,eBay,1000,Credit Card
+20193,Mirrorless Camera,Electronics,Cameras,Japan,Tokyo,India,17652,INR,2025-05-21,O20193,1,New,Mercari,350,UPI
+20194,Sports Shoes,Fashion,Footwear,Germany,Berlin,India,9693,INR,2025-05-17,O20194,2,New,Mercari,500,Cash on Delivery
+20195,Massage Roller,Wellness,Fitness,Japan,Tokyo,India,14340,INR,2025-05-05,O20195,3,Like New,eBay,300,Debit Card
+20196,Smartphone,Electronics,Mobile,China,Beijing,India,7673,INR,2025-04-17,O20196,5,Like New,Mercari,1000,Cash on Delivery
+20197,Vitamin Supplements,Wellness,Nutrition,UK,London,India,21478,INR,2025-05-20,O20197,5,New,Mercari,1000,Cash on Delivery
+20198,Tablet,Electronics,Mobile,Canada,Toronto,India,13966,INR,2025-05-10,O20198,3,Like New,eBay,150,Credit Card
+20199,Facial Cleanser,Wellness,Skincare,Canada,Toronto,India,23469,INR,2025-04-12,O20199,1,New,eBay,250,Credit Card
+20200,Tablet,Electronics,Mobile,Germany,Berlin,India,12451,INR,2025-05-10,O20200,5,New,eBay,250,Credit Card
+20201,Fitness Band,Electronics,Wearables,Canada,Toronto,India,2366,INR,2025-05-22,O20201,1,Like New,eBay,350,Credit Card
+20202,Yoga Mat,Wellness,Fitness,Germany,Berlin,India,2131,INR,2025-04-20,O20202,1,Used,Mercari,150,Debit Card
+20203,Essential Oils,Wellness,Aromatherapy,Japan,Tokyo,India,13344,INR,2025-04-16,O20203,5,Used,Mercari,600,Cash on Delivery
+20204,Moisturizer,Wellness,Skincare,UK,London,India,9205,INR,2025-04-30,O20204,4,Used,Mercari,200,Cash on Delivery
+20205,Yoga Mat,Wellness,Fitness,UK,London,India,24961,INR,2025-04-29,O20205,3,Used,eBay,350,Cash on Delivery
+20206,Scented Candles,Wellness,Aromatherapy,UK,London,India,6321,INR,2025-05-05,O20206,2,Like New,eBay,350,Cash on Delivery
+20207,Sunglasses,Fashion,Accessories,Germany,Berlin,India,1252,INR,2025-04-19,O20207,5,New,Mercari,300,Credit Card
+20208,Sports Shoes,Fashion,Footwear,Canada,Toronto,India,8146,INR,2025-05-20,O20208,3,Used,Mercari,150,Credit Card
+20209,Jeans,Fashion,Clothing,Japan,Tokyo,India,6918,INR,2025-05-08,O20209,2,New,eBay,150,Cash on Delivery
+20210,Herbal Tea,Wellness,Nutrition,Korea,Seoul,India,18200,INR,2025-05-21,O20210,4,New,Mercari,700,UPI
+20211,Gaming Controller,Electronics,Gaming,Korea,Seoul,India,19591,INR,2025-05-20,O20211,3,Like New,eBay,400,Credit Card
+20212,Game Console,Electronics,Gaming,Germany,Berlin,India,19524,INR,2025-04-25,O20212,1,Like New,Mercari,350,Debit Card
+20213,Sports Shoes,Fashion,Footwear,Korea,Seoul,India,16971,INR,2025-04-26,O20213,4,Used,Mercari,250,Cash on Delivery
+20214,Leather Wallet,Fashion,Accessories,Japan,Tokyo,India,8669,INR,2025-05-01,O20214,5,Used,eBay,300,Credit Card
+20215,Leather Wallet,Fashion,Accessories,Canada,Toronto,India,3717,INR,2025-05-06,O20215,2,Like New,Mercari,600,Debit Card
+20216,Bluetooth Speaker,Electronics,Audio,Canada,Toronto,India,10979,INR,2025-05-14,O20216,5,New,eBay,400,UPI
+20217,Sneakers,Fashion,Footwear,USA,California,India,15009,INR,2025-04-02,O20217,3,New,eBay,700,Cash on Delivery
+20218,Protein Powder,Wellness,Nutrition,Korea,Seoul,India,23135,INR,2025-04-15,O20218,2,Used,Mercari,150,Credit Card
+20219,Facial Cleanser,Wellness,Skincare,UK,London,India,23197,INR,2025-05-24,O20219,3,New,Mercari,300,Cash on Delivery
+20220,Leather Backpack,Fashion,Bags,Japan,Tokyo,India,18604,INR,2025-04-14,O20220,2,Like New,eBay,600,Cash on Delivery
+20221,Herbal Tea,Wellness,Nutrition,Germany,Berlin,India,16839,INR,2025-04-25,O20221,5,Used,Mercari,300,Debit Card
+20222,DSLR Camera,Electronics,Cameras,Canada,Toronto,India,17534,INR,2025-04-18,O20222,1,Like New,Mercari,150,Cash on Delivery
+20223,Massage Roller,Wellness,Fitness,Canada,Toronto,India,3054,INR,2025-04-19,O20223,4,New,eBay,600,Credit Card
+20224,Sunglasses,Fashion,Accessories,Japan,Tokyo,India,5292,INR,2025-04-30,O20224,5,Used,Mercari,100,Debit Card
+20225,Massage Roller,Wellness,Fitness,China,Beijing,India,10077,INR,2025-04-11,O20225,1,Like New,eBay,350,UPI
+20226,Tablet,Electronics,Mobile,Canada,Toronto,India,1925,INR,2025-04-17,O20226,4,Used,Mercari,600,UPI
+20227,Fitness Band,Electronics,Wearables,China,Beijing,India,16560,INR,2025-04-06,O20227,4,Like New,Mercari,400,Debit Card
+20228,Protein Powder,Wellness,Nutrition,USA,California,India,22779,INR,2025-04-22,O20228,4,Like New,Mercari,1000,Debit Card
+20229,Hair Serum,Wellness,Hair Care,Canada,Toronto,India,3797,INR,2025-05-15,O20229,5,Used,eBay,200,Debit Card
+20230,Designer Handbag,Fashion,Bags,Japan,Tokyo,India,8212,INR,2025-04-10,O20230,1,Used,eBay,400,UPI
+20231,Jeans,Fashion,Clothing,Canada,Toronto,India,5023,INR,2025-04-09,O20231,2,New,eBay,700,Debit Card
+20232,Vitamin Supplements,Wellness,Nutrition,Germany,Berlin,India,1041,INR,2025-04-06,O20232,4,New,eBay,1000,UPI
+20233,Tablet,Electronics,Computers,China,Beijing,India,12056,INR,2025-04-11,O20233,2,New,eBay,100,UPI
+20234,Formal Shoes,Fashion,Footwear,Germany,Berlin,India,24710,INR,2025-05-19,O20234,2,New,eBay,700,Cash on Delivery
+20235,Massage Roller,Wellness,Fitness,Japan,Tokyo,India,10917,INR,2025-05-20,O20235,1,Used,eBay,350,Cash on Delivery
+20236,Hair Serum,Wellness,Hair Care,UK,London,India,3089,INR,2025-04-30,O20236,1,Used,Mercari,600,Cash on Delivery
+20237,Moisturizer,Wellness,Skincare,China,Beijing,India,13096,INR,2025-05-11,O20237,1,New,eBay,400,UPI
+20238,Leather Wallet,Fashion,Accessories,China,Beijing,India,7642,INR,2025-04-04,O20238,5,Used,eBay,1000,Cash on Delivery
+20239,Game Console,Electronics,Gaming,Japan,Tokyo,India,19556,INR,2025-05-15,O20239,5,New,eBay,350,Cash on Delivery
+20240,Fitness Band,Electronics,Wearables,UK,London,India,22456,INR,2025-04-13,O20240,4,New,eBay,1000,Debit Card
+20241,Facial Cleanser,Wellness,Skincare,Korea,Seoul,India,17773,INR,2025-05-11,O20241,3,New,eBay,600,Debit Card
+20242,Sunglasses,Fashion,Accessories,Canada,Toronto,India,4603,INR,2025-04-22,O20242,5,Used,Mercari,200,Debit Card
+20243,Laptop,Electronics,Computers,China,Beijing,India,7978,INR,2025-05-17,O20243,4,New,Mercari,150,Debit Card
+20244,Noise Cancelling Headphones,Electronics,Audio,Canada,Toronto,India,6626,INR,2025-04-30,O20244,4,Used,Mercari,700,Cash on Delivery
+20245,Fitness Band,Electronics,Wearables,China,Beijing,India,10489,INR,2025-04-06,O20245,5,Used,Mercari,600,UPI
+20246,Hair Serum,Wellness,Hair Care,Korea,Seoul,India,4947,INR,2025-04-04,O20246,3,New,Mercari,1000,UPI
+20247,Designer Handbag,Fashion,Bags,Korea,Seoul,India,10657,INR,2025-04-12,O20247,2,Used,Mercari,500,UPI
+20248,Bluetooth Speaker,Electronics,Audio,USA,California,India,9466,INR,2025-04-25,O20248,1,Used,Mercari,300,Cash on Delivery
+20249,Noise Cancelling Headphones,Electronics,Audio,Canada,Toronto,India,7150,INR,2025-05-04,O20249,4,Like New,Mercari,700,Credit Card
+20250,Smartphone,Electronics,Mobile,China,Beijing,India,18212,INR,2025-05-09,O20250,3,Like New,eBay,300,UPI
+20251,Tablet,Electronics,Mobile,UK,London,India,18337,INR,2025-05-02,O20251,4,Used,Mercari,300,Debit Card
+20252,Wireless Earbuds,Electronics,Audio,China,Beijing,India,15786,INR,2025-04-08,O20252,2,Used,eBay,400,Credit Card
+20253,Jeans,Fashion,Clothing,Korea,Seoul,India,16159,INR,2025-05-15,O20253,3,New,Mercari,300,UPI
+20254,Shampoo,Wellness,Hair Care,Canada,Toronto,India,550,INR,2025-05-14,O20254,3,Like New,Mercari,200,Debit Card
+20255,Jacket,Fashion,Clothing,China,Beijing,India,20012,INR,2025-05-12,O20255,2,Like New,eBay,600,UPI
+20256,Sunglasses,Fashion,Accessories,Canada,Toronto,India,13218,INR,2025-05-07,O20256,3,Like New,Mercari,250,UPI
+20257,Designer Handbag,Fashion,Bags,USA,California,India,21082,INR,2025-04-22,O20257,4,Used,Mercari,700,Cash on Delivery
+20258,Smartphone,Electronics,Mobile,Canada,Toronto,India,19645,INR,2025-04-20,O20258,3,Used,eBay,400,Credit Card
+20259,Sneakers,Fashion,Footwear,China,Beijing,India,20804,INR,2025-04-20,O20259,2,Like New,Mercari,150,UPI
+20260,Laptop,Electronics,Computers,Korea,Seoul,India,11316,INR,2025-04-02,O20260,4,Used,Mercari,250,UPI
+20261,T-shirt,Fashion,Clothing,Japan,Tokyo,India,19329,INR,2025-04-07,O20261,5,Used,Mercari,250,Credit Card
+20262,Sunglasses,Fashion,Accessories,Korea,Seoul,India,8050,INR,2025-04-03,O20262,5,Used,eBay,500,Credit Card
+20263,Tablet,Electronics,Mobile,Korea,Seoul,India,14607,INR,2025-04-20,O20263,2,Like New,Mercari,300,UPI
+20264,Massage Roller,Wellness,Fitness,Germany,Berlin,India,3294,INR,2025-04-10,O20264,2,New,Mercari,700,Credit Card
+20265,Tablet,Electronics,Mobile,UK,London,India,8234,INR,2025-04-10,O20265,3,Like New,Mercari,150,UPI
+20266,Massage Roller,Wellness,Fitness,Korea,Seoul,India,3599,INR,2025-05-01,O20266,1,New,Mercari,150,Cash on Delivery
+20267,Formal Shoes,Fashion,Footwear,UK,London,India,22325,INR,2025-05-11,O20267,4,Used,eBay,350,Debit Card
+20268,Hair Serum,Wellness,Hair Care,Canada,Toronto,India,19204,INR,2025-05-07,O20268,2,New,eBay,150,Cash on Delivery
+20269,Sports Watch,Fashion,Accessories,Japan,Tokyo,India,23707,INR,2025-04-10,O20269,5,New,eBay,400,Debit Card
+20270,Massage Roller,Wellness,Fitness,China,Beijing,India,12392,INR,2025-04-05,O20270,4,New,eBay,500,Debit Card
+20271,Jeans,Fashion,Clothing,UK,London,India,2932,INR,2025-05-23,O20271,1,Like New,Mercari,300,Cash on Delivery
+20272,Leather Wallet,Fashion,Accessories,UK,London,India,6394,INR,2025-04-11,O20272,4,Like New,eBay,250,Cash on Delivery
+20273,Jeans,Fashion,Clothing,Japan,Tokyo,India,16700,INR,2025-04-05,O20273,5,Used,Mercari,700,Cash on Delivery
+20274,Leather Backpack,Fashion,Bags,Japan,Tokyo,India,7977,INR,2025-04-26,O20274,1,Like New,eBay,350,Cash on Delivery
+20275,Facial Cleanser,Wellness,Skincare,Japan,Tokyo,India,20499,INR,2025-05-08,O20275,1,Used,Mercari,500,UPI
+20276,Leather Wallet,Fashion,Accessories,Japan,Tokyo,India,17165,INR,2025-04-21,O20276,3,Like New,eBay,400,UPI
+20277,Smartphone,Electronics,Mobile,UK,London,India,24665,INR,2025-04-26,O20277,2,Used,Mercari,350,Credit Card
+20278,Gaming Controller,Electronics,Gaming,Korea,Seoul,India,21586,INR,2025-04-02,O20278,2,Like New,eBay,1000,UPI
+20279,Scented Candles,Wellness,Aromatherapy,China,Beijing,India,11105,INR,2025-04-14,O20279,2,Like New,Mercari,600,Cash on Delivery
+20280,Leather Wallet,Fashion,Accessories,USA,California,India,24937,INR,2025-05-13,O20280,2,New,Mercari,1000,Credit Card
+20281,Gaming Controller,Electronics,Gaming,Germany,Berlin,India,11143,INR,2025-04-09,O20281,1,New,eBay,500,Cash on Delivery
+20282,Protein Powder,Wellness,Nutrition,UK,London,India,10833,INR,2025-05-23,O20282,4,Like New,Mercari,200,Cash on Delivery
+20283,Moisturizer,Wellness,Skincare,China,Beijing,India,21231,INR,2025-04-16,O20283,5,New,eBay,100,Credit Card
+20284,Scented Candles,Wellness,Aromatherapy,Korea,Seoul,India,14674,INR,2025-05-15,O20284,1,New,eBay,500,Credit Card
+20285,Hair Serum,Wellness,Hair Care,Japan,Tokyo,India,12022,INR,2025-05-18,O20285,1,Used,eBay,700,Credit Card
+20286,Leather Backpack,Fashion,Bags,China,Beijing,India,13011,INR,2025-05-01,O20286,5,Used,eBay,350,UPI
+20287,Sports Shoes,Fashion,Footwear,Germany,Berlin,India,23102,INR,2025-05-18,O20287,3,Used,eBay,100,Cash on Delivery
+20288,Herbal Tea,Wellness,Nutrition,Korea,Seoul,India,16545,INR,2025-04-19,O20288,5,New,eBay,150,Debit Card
+20289,Face Mask,Wellness,Skincare,USA,California,India,3660,INR,2025-04-18,O20289,3,Used,Mercari,150,Debit Card
+20290,Herbal Tea,Wellness,Nutrition,China,Beijing,India,9496,INR,2025-04-12,O20290,3,Used,Mercari,500,Debit Card
+20291,Face Mask,Wellness,Skincare,Korea,Seoul,India,24196,INR,2025-05-09,O20291,2,Used,eBay,400,Debit Card
+20292,Essential Oils,Wellness,Aromatherapy,Japan,Tokyo,India,14612,INR,2025-05-24,O20292,3,New,eBay,150,Credit Card
+20293,Laptop Stand,Electronics,Computer Accessories,China,Beijing,India,7813,INR,2025-05-18,O20293,5,New,eBay,500,UPI
+20294,Tablet,Electronics,Mobile,Korea,Seoul,India,7504,INR,2025-05-22,O20294,4,Like New,eBay,600,Credit Card
+20295,Tablet,Electronics,Mobile,Canada,Toronto,India,11021,INR,2025-05-12,O20295,3,Like New,eBay,150,UPI
+20296,Shampoo,Wellness,Hair Care,China,Beijing,India,19419,INR,2025-05-18,O20296,2,Used,Mercari,600,UPI
+20297,Protein Powder,Wellness,Nutrition,UK,London,India,660,INR,2025-04-01,O20297,1,New,Mercari,600,Credit Card
+20298,Scented Candles,Wellness,Aromatherapy,Japan,Tokyo,India,18241,INR,2025-04-17,O20298,2,New,Mercari,100,Debit Card
+20299,Moisturizer,Wellness,Skincare,Korea,Seoul,India,2525,INR,2025-05-09,O20299,2,Like New,Mercari,150,Debit Card
+20300,Jacket,Fashion,Clothing,Germany,Berlin,India,23430,INR,2025-05-11,O20300,4,Used,eBay,400,UPI
